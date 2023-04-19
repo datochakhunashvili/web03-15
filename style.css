@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    background-color:#0a22f4;
+    width: 1400px;
+    height: 750px;
+    margin: 50px;
+}
+.logo{
+    width: 97px;
+    height: 55px;
+    margin: 20px;
+    display: inline-block;
+    margin-left: 150px;
+    vertical-align: middle;
+}
+.logo img{
+    width: 70px;
+}
+.nav{
+    display: inline-block;
+    margin-left: 250px;
+}
+nav{
+    display: inline-block;
+}
+ul{
+    display: inline-block;
+}    
+.nav li{
+    display: inline-block;
+    width: 113px;
+    height: 18px;
+    color: #ffffff;
+    left: 800px;
+    vertical-align: middle;
+    left: 150px;
+}
+
+.button{
+    display: inline-block;
+}
+.button button{
+    width: 100px;
+    height: 30px
+}
+.recta-68{
+    display: inline-block;
+}
+.recta-68 img{
+    width: 350px;
+    margin-left: -100px;
+    height: 300px;
+    margin-top: 70px;
+    vertical-align: middle;
+}
+.recta-3{
+    display: inline-block;
+}
+.recta-3 img{
+    width: 400px;
+    height: 400px;
+    margin-left: 190px;
+    margin-top: 30px;
+    vertical-align: middle;
+}
+.recta-67{
+    display: inline-block;
+}
+.recta-67 img{
+    width: 350px;
+    height: 300px;
+    margin-left: 200px;
+    vertical-align: middle;
+}
+.wrapper-1{
+    background-color:#ffffff;
+    width: 1400px;
+    height: 750px;
+    margin: 50px;
+}
+.lorem-1{
+    display: inline-block;
+}
+.lorem{
+    display: inline-block;
+    width: 250px;
+    font-size: 10px;
+}
+span{
+    color: #0a22f4;
+}
+.recta-7{
+    display: inline-block;
+}
+.recta-7 img{
+    width: 400px;
+    height: 400px;
+    vertical-align: middle;
+    margin-left: 200px;   
+}
+.box{
+    margin-top: 150px;
+}
+.box h3, h5, p{
+    display: inline-block;
+}
+.box-1{
+    width: 70px;
+    height: 70px;
+    border: 1px solid white;
+    background-color:#F9F9F9;
+    margin: 20px 20px 20px 0px;
+}
+.box, p{
+    width: 200px;
+}
